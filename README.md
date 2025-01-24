@@ -1,8 +1,7 @@
 ## Hi there 👋
 - I’m currently working on Full Stack Web Development course at Masai School.
 - I’m currently learning Front-End , Back-End and FullStack web development.
-- B.Tech 2024 CGPA-8.1
-- Full Stack web development Masai School Sep 2024 - Present 
+- I'm good in skills like HTML,CSS,JavaScript,Node.js,Express,js,Github,Mongoose,DSA.
 
 <!--
 **DivyamChitransh/DivyamChitransh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
