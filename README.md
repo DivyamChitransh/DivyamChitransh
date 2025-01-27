@@ -5,7 +5,7 @@
 - I have completed B.Tech in computer science engineering in May,2024.
 - Currently I am enrolled in Full Stack Development course at Masai School.
 
-- Projects
+- 📚Projects
 
 - Project-1 : Learning Management System
 - In this project, I have implemented an LMS with the help of NEM(Node Express Mongo) and postman to check api requests.
@@ -19,7 +19,7 @@
 - project 4: File management System
 - In this project, I have implemented a file management system using HTML,CSS and Javascript
 
-- Technical Skills
+- ⚙️Technical Skills
 - HTML
 - CSS
 - JavaScript
@@ -27,7 +27,7 @@
 - Express
 - MongoDB
 
-- Connect with me
+- 📫Connect with me
 - LinkedIn: https://www.linkedin.com/in/divyam-chitransh-b1a89a21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Gmail: divyamchitransh@gmail.com
 - 
