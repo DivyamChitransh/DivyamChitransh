@@ -5,19 +5,9 @@
 - I have completed B.Tech in computer science engineering in May,2024.
 - Currently I am enrolled in Full Stack Development course at Masai School.
 
-- 📚Projects
-
-- Project-1 : Learning Management System
-- In this project, I have implemented an LMS with the help of NEM(Node Express Mongo) and postman to check api requests.
-
-- Project 2: Job Board
-- In this project, I have implemented an Job Board Management System with the help of NEM(Node Express Mongo) and postman to check api requests.
-
-- Project 3: Facebook Clone 
-- In this project, I have implemented a file management system using HTML,CSS and Javascript
-
-- project 4: File management System
-- In this project, I have implemented a file management system using HTML,CSS and Javascript
+Education: 
+B.Tech in CSE: Galgotias University. Dec 2020 - May 2024 CGPA: 8.1/10.
+Full Stack Web Development course : Masai School. Sep 2024 - Present
 
 - ⚙️Technical Skills
 - HTML
