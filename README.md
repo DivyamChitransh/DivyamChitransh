@@ -13,6 +13,25 @@
 - Project 2: Job Board
 - In this project, I have implemented an Job Board Management System with the help of NEM(Node Express Mongo) and postman to check api requests.
 
+- Project 3: Facebook Clone 
+- In this project, I have implemented a file management system using HTML,CSS and Javascript
+
+- project 4: File management System
+- In this project, I have implemented a file management system using HTML,CSS and Javascript
+
+- Technical Skills
+- HTML
+- CSS
+- JavaScript
+- Node
+- Express
+- MongoDB
+
+- Connect with me
+- LinkedIn: https://www.linkedin.com/in/divyam-chitransh-b1a89a21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Gmail: divyamchitransh@gmail.com
+- 
+
 <!--
 **DivyamChitransh/DivyamChitransh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
