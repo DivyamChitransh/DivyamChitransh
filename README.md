@@ -5,11 +5,11 @@
 - I have completed B.Tech in computer science engineering in May,2024.
 - Currently I am enrolled in Full Stack Development course at Masai School.
 
-Education: 
-B.Tech in CSE: Galgotias University. Dec 2020 - May 2024 CGPA: 8.1/10.
-Full Stack Web Development course : Masai School. Sep 2024 - Present
+📚Education: 
+- B.Tech in CSE: Galgotias University. Dec 2020 - May 2024 CGPA: 8.1/10.
+- Full Stack Web Development course : Masai School. Sep 2024 - Present
 
-- ⚙️Technical Skills
+⚙️Technical Skills
 - HTML
 - CSS
 - JavaScript
@@ -17,7 +17,7 @@ Full Stack Web Development course : Masai School. Sep 2024 - Present
 - Express
 - MongoDB
 
-- 📫Connect with me
+📫Connect with me
 - LinkedIn: https://www.linkedin.com/in/divyam-chitransh-b1a89a21b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Gmail: divyamchitransh@gmail.com
 - 
